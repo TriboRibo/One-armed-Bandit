@@ -1,3 +1,54 @@
+.table {
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/carbon_fibre.png");
+  width: auto;
+  height: 100vh;
+}
 
+.machine {
+  border: 1px solid wheat;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.mainScreen {
+  border: 1px solid wheat;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.screen {
+  border: 1px solid wheat;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  user-select: none;
+  text-align: center;
+  font-size: 50px;
+}
+
+.hand {
+  border: 1px solid wheat;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  user-select: none;
+  font-size: 50px;
+}
+.hand:hover {
+  cursor: pointer;
+}
+.hand:active {
+  scale: 0.9;
+}
+
+.score {
+  color: #ffffc4;
+  font-size: 25px;
+  user-select: none;
+}
 
 /*# sourceMappingURL=style.css.map */
